@@ -13,11 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8-bit\n"
 
 #: scenes/title_screen.tscn
-msgid "Log in to Patreon"
+msgid "Log in with Patreon"
 msgstr ""
 
 #: scenes/title_screen.tscn
-msgid "Log in to SubcribeStar"
+msgid "Log in with SubcribeStar"
 msgstr ""
 
 #: scenes/loading_screen.tscn
